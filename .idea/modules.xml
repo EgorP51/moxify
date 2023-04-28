@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/melos_app.iml" filepath="$PROJECT_DIR$/app/melos_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/features\\home/melos_home.iml" filepath="$PROJECT_DIR$/features\\home/melos_home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core\\moxify_api/melos_moxify_api.iml" filepath="$PROJECT_DIR$/core\\moxify_api/melos_moxify_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core\\moxify_ui/melos_moxify_ui.iml" filepath="$PROJECT_DIR$/core\\moxify_ui/melos_moxify_ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/melos_moxify.iml" filepath="$PROJECT_DIR$/melos_moxify.iml" />
+    </modules>
+  </component>
+</project>
